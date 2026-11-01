@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm an Engineering Leader & Architect
 
 ### Engineering Intelligent Platforms. Scaling Automation. Enabling AI-Driven Innovation.
